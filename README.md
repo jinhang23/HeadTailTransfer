@@ -7,7 +7,7 @@ This repository contains the official implementation of the paper:
 > *Computers in Biology and Medicine*, 157 (2023) 106783.
 > DOI: [10.1016/j.compbiomed.2023.106783](https://doi.org/10.1016/j.compbiomed.2023.106783)
 
-> **Note on authorship:** HeadTailTransfer — the head-to-tail sampling strategy, implementation, experiments, and manuscript — was primarily developed and written by **Jinhang Wei** (co-first author).
+> **Note on authorship:** This code repository was primarily developed by **Jinhang Wei** (co-first author).
 
 This is the code for HeadTailTransfer.
 
